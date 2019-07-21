@@ -7,4 +7,4 @@
 - Using docker, google container registry
   - kubernetes cluster docker image
 - Deploy to SDK
-  
+- Done
